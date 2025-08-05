@@ -1,6 +1,7 @@
 # 💖 Thank You Flipbook 🌟
 
-A heartfelt, interactive flipbook made with love — dedicated to the **real ones** in our lives who support us, uplift us, and make the world a better place simply by being in it. This project is a small way to say **"Thank You for being YOU."**
+A heartfelt, interactive flipbook made with love — dedicated to the **real ones** in our lives who support us, uplift us, and make the world a better place simply by being in it.<br>
+This project is a small way to say **"Thank You for being YOU."**
 
 ---
 
@@ -23,14 +24,14 @@ Whether you're sending this to a best friend, sibling, or anyone who's made a di
 ---
 
 ## 📁 Project Structure
+```bash
+├── index.html     # Main HTML for the flipbook
+├── style.css      # CSS styles for pages and animations
+├── book.js        # JavaScript to handle page flipping
+├── images/        # Folder containing personal images (e.g., 6.jpg, 2.1.JPG, etc.)
+└── README.md      # Project overview and instructions
 
-├── index.html # Main HTML for the flipbook
-├── style.css # CSS styles for pages and animations
-├── book.js # JavaScript to handle page flipping
-├── images/ # Folder containing personal images (e.g., 6.jpg, 2.1.JPG, etc.)
-└── README.md # Project overview and instructions
-
-
+```
 
 ---
 
